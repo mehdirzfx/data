@@ -1,0 +1,8 @@
+#Config Private - ༺ 𝐒𝟑𝐍𝐀𝐓𝟎𝐑 ༻
+#Update 2022-11-23
+
+vless://72497b81-82c8-4c0f-858a-d8c1173fdb66@5.75.247.99:21505?type=ws&path=%2F&host&alpn=#s3nat0r1
+vless://3234265d-7a67-4b55-a58f-752376017981@5.75.243.118:47197?type=ws&path=%2F&host&alpn=#s3nat0r2
+vless://516944d1-5022-41e0-c981-3fb08c736d91@176.9.192.221:30179?type=ws&path=%2F&host&alpn=#s3nat0r3
+vmess://ws:0b7e1700-f893-4182-fc28-cfb2e0252c2d-0@5.161.107.242:38063/#s3nat0r4
+

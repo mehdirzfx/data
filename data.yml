@@ -1,12 +1,12 @@
 #Config v2ray - ༺ 𝐒𝟑𝐍𝐀𝐓𝟎𝐑 ༻
 #Last Update 2022-11-26
 
-vless://009bea47-49e5-44fb-87f6-4536ca5207b6@116.203.76.152:48446?type=ws&security=none&path=%2F#s3nat0r1
-vless://bfa94e95-1ca0-4e00-fbc8-65fb9e461247@95.217.130.97:443?type=ws&security=none&path=%2F#s3nat0r2
-vless://f6678a34-5b4e-42e8-9341-a05287853802@5.75.252.191:2082?type=ws&security=none&path=%2F#s3nat0r3
+vless://009bea47-49e5-44fb-87f6-4536ca5207b6@116.203.76.152:48446?type=ws&security=none&path=%2F#s3nat0r
+vless://bfa94e95-1ca0-4e00-fbc8-65fb9e461247@95.217.130.97:443?type=ws&security=none&path=%2F#s3nat0r
+vless://f6678a34-5b4e-42e8-9341-a05287853802@5.75.252.191:2082?type=ws&security=none&path=%2F#s3nat0r
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJaMTEtMTA0IiwKICAiYWRkIjogIjg4LjE5OC4xMjcuMzYiLAogICJwb3J0IjogNTQxMjYsCiAgImlkIjogIjA5MDQ4ZDhiLTU3YjEtNDQxYi04OWUxLTM3OWU0ODZlNTFkYiIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogImh0dHAiLAogICJob3N0IjogIiIsCiAgInBhdGgiOiAiLyIsCiAgInRscyI6ICJub25lIgp9
 vless://1a1030bf-8421-43d7-a082-acab9aae784a@65.108.88.144:2086?type=ws&security=none&path=%2F#s3nat0r%20-%20dl
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJzM25hdDByIiwKICAiYWRkIjogIjkzLjE3Ny42Ni4xNzIiLAogICJwb3J0IjogNjIzNDUsCiAgImlkIjogImY5YTNmNDEwLTY0MDYtNGU0ZS04MWEzLWI1Mzc0YzU4OGM3MSIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIvIiwKICAidGxzIjogIm5vbmUiCn0=
-vless://ed75479a-87df-48f3-e8fd-d0533932c042@91.149.241.20:16699?path=%2F&security=none&encryption=none&type=ws#s3nat0r3
+vless://ed75479a-87df-48f3-e8fd-d0533932c042@91.149.241.20:16699?path=%2F&security=none&encryption=none&type=ws#s3nat0r
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJzM25hdDByIiwKICAiYWRkIjogIjE2Ny4yMzUuMjAyLjQxIiwKICAicG9ydCI6IDE5NDg0LAogICJpZCI6ICI1ODllYjZiMy0yNTI5LTQxZjgtYTRlZi0zZWUxMjU2M2JkZDQiLAogICJhaWQiOiAwLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogIm5vbmUiLAogICJob3N0IjogIiIsCiAgInBhdGgiOiAiLyIsCiAgInRscyI6ICJub25lIgp9
 vless://0b5c7dce-9a67-4202-ba88-e19cb403b2ec@5.75.252.191:2095?type=ws&security=none&path=%2F#dl-server

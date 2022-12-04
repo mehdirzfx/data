@@ -1,5 +1,5 @@
 #Config v2ray - ༺ 𝐒𝟑𝐍𝐀𝐓𝟎𝐑 ༻
-#Last Update 2022-12-04
+#Last Update 2022-12-05
 
 vless://009bea47-49e5-44fb-87f6-4536ca5207b6@116.203.76.152:48446?type=ws&security=none&path=%2F#pb-s3nat0r1
 vless://bfa94e95-1ca0-4e00-fbc8-65fb9e461247@95.217.130.97:443?type=ws&security=none&path=%2F#pb-s3nat0r2
@@ -31,3 +31,4 @@ vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJwYi0yNiIsCiAgImFkZCI6ICJhLmFtaXJiZXN0MS5z
 vless://bfa94e95-1ca0-4e00-fbc8-65fb9e461247@95.217.130.97:443?type=ws&security=none&path=%2F#pb-28
 vless://9c7ca915-0e16-466f-8df0-9945d2b37db7@5.161.69.99:33130?type=ws&security=none&path=%2F#pb-29
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJwYi0zMCIsCiAgImFkZCI6ICIxNzguNjMuMjUzLjc0IiwKICAicG9ydCI6IDE1Mzg4LAogICJpZCI6ICJhMThhNTcwZS1lNzhmLTQ3ZGYtY2NkNy01YTViZDRkNGY1MmUiLAogICJhaWQiOiAwLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogIm5vbmUiLAogICJob3N0IjogIiIsCiAgInBhdGgiOiAiLyIsCiAgInRscyI6ICJub25lIgp9
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJwYi0zMSIsCiAgImFkZCI6ICI2NS4yMS4yNDYuMTk2IiwKICAicG9ydCI6IDU0NzI4LAogICJpZCI6ICI0Y2U4NjViOS0zMjUxLTQzZTItODViYy1mMDZiNmYzMjc5NjMiLAogICJhaWQiOiAwLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogIm5vbmUiLAogICJob3N0IjogIiIsCiAgInBhdGgiOiAiLyIsCiAgInRscyI6ICJub25lIgp9
